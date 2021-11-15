@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Planets</string>
+
+    <string name="name">Planet Name:</string>
+    <string name="orbital_period">Orbital Period:</string>
+    <string name="gravity">Gravity:</string>
+
+    <string name="retry">Retry</string>
+    <string name="retry_description">Check your network connection and try again</string>
+</resources>
